@@ -1,0 +1,8 @@
+{
+  "name": "Rural Health Follow-Up Assurance",
+  "description": "Production-quality healthcare follow-up assurance platform featuring dataset ZIP import, patient linkage, dynamic care journey, CCI-7, ML-driven LTFU prediction (lfu_risk_tier_k7), care breakpoint detection, Kestrel-7 escalation, call simulation, and ASHA field intervention tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
